@@ -1,5 +1,5 @@
 # Among Us Blacklist Checker
-
+TODO: Update this for NodeJS
 Continuously captures your screen, OCR-reads any `Username#1234` patterns, and alerts you (via voice and console) if one of them is on your blacklist.
 
 ---
